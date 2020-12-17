@@ -1,0 +1,9 @@
+<library path="lib/librviz_setPath_lib">
+    <class name="rviz_set_path/SetPanel"
+           type="rviz_set_path::SetPanel"
+           base_class_type="rviz::Panel">
+        <description>
+            A panel widget allowing simple diff-drive style robot base control.
+        </description>
+    </class>
+</library>
